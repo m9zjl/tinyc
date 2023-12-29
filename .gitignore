@@ -6,3 +6,6 @@
 *.iml
 out
 gen
+scanner
+hide-digits
+lex.yy.c
